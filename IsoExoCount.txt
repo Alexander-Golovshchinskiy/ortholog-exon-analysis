@@ -1,0 +1,80 @@
+homo_sapiens - ENSG00000198520
+
+N of isoforms for gene ARMH1: 21, N of exons in canonical transcript ENST00000535358: 12 
+
+pongo_abelii - ENSPPYG00000001428
+
+N of isoforms for gene ARMH1: 1, N of exons in canonical transcript ENSPPYT00000001711: 12 
+
+pan_troglodytes - ENSPTRG00000022898
+
+N of isoforms for gene ARMH1: 1, N of exons in canonical transcript ENSPTRT00000049901: 13 
+
+canis_lupus_familiaris - ENSCAFG00845026874
+
+N of isoforms for gene ARMH1: 1, N of exons in canonical transcript ENSCAFT00845047385: 12 
+
+mus_musculus - ENSMUSG00000060268
+
+N of isoforms for gene ARMH1: 3, N of exons in canonical transcript ENSMUST00000165128: 13 
+
+gallus_gallus - ENSGALG00010025624
+
+N of isoforms for gene ARMH1: 3, N of exons in canonical transcript ENSGALT00010062536: 12 
+
+homo_sapiens - ENSG00000075624
+
+N of isoforms for gene ACTB: 23, N of exons in canonical transcript ENST00000646664: 6 
+
+pongo_abelii - ENSPPYG00000017336
+
+N of isoforms for gene ACTB: 1, N of exons in canonical transcript ENSPPYT00000020193: 6 
+
+pan_troglodytes - ENSPTRG00000018890
+
+N of isoforms for gene ACTB: 4, N of exons in canonical transcript ENSPTRT00000066712: 6 
+
+mus_musculus - ENSMUSG00000029580
+
+N of isoforms for gene ACTB: 9, N of exons in canonical transcript ENSMUST00000100497: 6 
+
+danio_rerio - ENSDARG00000037746
+
+N of isoforms for gene ACTB: 7, N of exons in canonical transcript ENSDART00000054987: 6 
+
+danio_rerio - ENSDARG00000037870
+
+N of isoforms for gene ACTB: 8, N of exons in canonical transcript ENSDART00000141737: 6 
+
+homo_sapiens - ENSG00000171587
+
+N of isoforms for gene DSCAM: 3, N of exons in canonical transcript ENST00000400454: 33 
+
+pongo_abelii - ENSPPYG00000011432
+
+N of isoforms for gene DSCAM: 1, N of exons in canonical transcript ENSPPYT00000013273: 33 
+
+pan_troglodytes - ENSPTRG00000013922
+
+N of isoforms for gene DSCAM: 3, N of exons in canonical transcript ENSPTRT00000025965: 33 
+
+canis_lupus_familiaris - ENSCAFG00845029877
+
+N of isoforms for gene DSCAM: 3, N of exons in canonical transcript ENSCAFT00845053030: 33 
+
+mus_musculus - ENSMUSG00000050272
+
+N of isoforms for gene DSCAM: 2, N of exons in canonical transcript ENSMUST00000056102: 33 
+
+danio_rerio - ENSDARG00000024865
+
+N of isoforms for gene DSCAM: 4, N of exons in canonical transcript ENSDART00000184416: 33 
+
+danio_rerio - ENSDARG00000028118
+
+N of isoforms for gene DSCAM: 2, N of exons in canonical transcript ENSDART00000098038: 33 
+
+gallus_gallus - ENSGALG00010013589
+
+N of isoforms for gene DSCAM: 4, N of exons in canonical transcript ENSGALT00010032801: 34 
+
